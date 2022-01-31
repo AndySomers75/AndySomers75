@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AndySomers75
+- 👀 I’m interested in learning software programming 
+- 🌱 I’m currently learning software Engineering at Academy Xi
+- 💞️ I’m looking to collaborate on designing and improving UX with fitness apps
+- 📫 How to reach me at andysomerville75@gmail.com
